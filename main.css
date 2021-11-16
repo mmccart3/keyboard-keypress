@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
+* {
+  color: #050A30;
+  font-family:"Roboto","sans-serif";
+  box-sizing: border-box;
+}
+body {
+  background-color: #C3E0E5;
+  /* background-image: url("../images/fullStackBackground.jpg"); */
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+  }
